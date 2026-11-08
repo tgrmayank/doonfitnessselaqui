@@ -1,0 +1,13 @@
+# Doon Fitness
+
+> Doon Fitness is a gym in Selaqui, Dehradun, near DBS College (Central Hope Town, Uttarakhand 248011).
+
+## Facts
+- Address: Heritage Cafe, below Doon Fitness Gym, near DBS College, Selaqui, Central Hope Town, Uttarakhand 248011, India
+- Phone and WhatsApp: +91 88513 47337
+- Membership: 1 month ₹999, 2 months ₹1,999, 3 months ₹2,799
+- Services: personal training (charged separately), weight loss, weight gain, free diet plan, supplements guidance, strength and cardio training
+- Facilities: branded machines, free high-speed WiFi, hot and cold RO water, CCTV with 24x7 monitoring, parking, Heritage Cafe, air-conditioned floor
+
+## Pages
+- [Home](https://YOUR-DOMAIN.com/): plans, services, facilities, FAQ and contact
