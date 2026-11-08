@@ -1,6 +1,6 @@
 # Doon Fitness website
 
-Single-page gym website for Doon Fitness, Selaqui, Dehradun.
+Gym website (Home, Gallery, Reviews, Contact) for Doon Fitness, Selaqui, Dehradun.
 
 ## Put it on GitHub Pages
 1. Create a repo on github.com and upload every file from this folder (index.html must be at the root).
@@ -23,7 +23,11 @@ Add a file named CNAME containing only your domain (example: yourdomain.com) and
 3. Test the share banner: https://www.opengraph.xyz/ and rich results: https://search.google.com/test/rich-results
 
 ## Files
-- index.html: the website
+- index.html: home page
+- contact.html: contact page (call, WhatsApp auto-typing message, address, map)
+- reviews.html: member reviews (edit the cards in the file to add real reviews)
+- gallery.html: photo slider (add a photo: copy a <figure class="sd"> block and a thumbnail button)
+- assets/css, assets/js: shared styles and WhatsApp popup script
 - assets/img: photos, logo and og-banner (share image 1200x630)
 - assets/icons, favicon.ico, favicon.svg: browser tab icons, phone home-screen icons
 - manifest.webmanifest, browserconfig.xml: app / tile settings

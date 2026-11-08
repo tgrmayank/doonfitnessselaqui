@@ -11,3 +11,6 @@
 
 ## Pages
 - [Home](https://doonfitnessxgym.vercel.app/): plans, services, facilities, FAQ and contact
+- [Contact](https://doonfitnessxgym.vercel.app/contact.html): phone, WhatsApp, address, directions, map
+- [Reviews](https://doonfitnessxgym.vercel.app/reviews.html): member reviews of Doon Fitness
+- [Gallery](https://doonfitnessxgym.vercel.app/gallery.html): photos of the gym floor and machines
