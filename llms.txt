@@ -10,4 +10,4 @@
 - Facilities: branded machines, free high-speed WiFi, hot and cold RO water, CCTV with 24x7 monitoring, parking, Heritage Cafe, air-conditioned floor
 
 ## Pages
-- [Home](https://YOUR-DOMAIN.com/): plans, services, facilities, FAQ and contact
+- [Home](https://doonfitnessxgym.vercel.app/): plans, services, facilities, FAQ and contact
