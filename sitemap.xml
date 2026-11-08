@@ -1,8 +1,9 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-<url><loc>https://YOUR-DOMAIN.com/</loc><lastmod>2026-11-09</lastmod><changefreq>monthly</changefreq><priority>1.0</priority>
-<image:image><image:loc>https://YOUR-DOMAIN.com/assets/img/doon-fitness-workout-floor-dehradun.jpg</image:loc><image:title>Doon Fitness workout floor, Selaqui Dehradun</image:title></image:image>
-<image:image><image:loc>https://YOUR-DOMAIN.com/assets/img/doon-fitness-gym-floor-night.jpg</image:loc><image:title>Doon Fitness gym floor</image:title></image:image>
-<image:image><image:loc>https://YOUR-DOMAIN.com/assets/img/doon-fitness-branded-machines-selaqui.jpg</image:loc><image:title>Branded strength machines at Doon Fitness</image:title></image:image>
+<url><loc>https://doonfitnessxgym.vercel.app/</loc><lastmod>2026-11-09</lastmod><changefreq>monthly</changefreq><priority>1.0</priority>
+<image:image><image:loc>https://doonfitnessxgym.vercel.app/assets/img/doon-fitness-workout-floor-dehradun.jpg</image:loc><image:title>Doon Fitness workout floor, Selaqui Dehradun</image:title></image:image>
+<image:image><image:loc>https://doonfitnessxgym.vercel.app/assets/img/doon-fitness-gym-floor-night.jpg</image:loc><image:title>Doon Fitness gym floor</image:title></image:image>
+<image:image><image:loc>https://doonfitnessxgym.vercel.app/assets/img/doon-fitness-branded-machines-selaqui.jpg</image:loc><image:title>Branded strength machines at Doon Fitness</image:title></image:image>
 </url>
 </urlset>
